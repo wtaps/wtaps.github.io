@@ -6,7 +6,7 @@ category: "python"
 tags: [python]
 ---
 
-#python虚拟环境工具virtualenv
+python虚拟环境工具virtualenv
 
 ## 介绍
 virtualenv 用来创建隔离的Python环境。比如你想装Django1.4和1.6两个版本，但想2个版本互不影响，就用到这个工具了。
